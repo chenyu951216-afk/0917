@@ -1,0 +1,25 @@
+{
+  "base_repository": "chenyu951216-afk/xp",
+  "base_commit": "29b1a0c12a7ba44bc0800af79b159506c3f992b1",
+  "version": "eth-20260917-r4",
+  "kind": "source update overlay, not a standalone repository",
+  "committed_to_main": false,
+  "files": {
+    "eth/levels.py": "39946333ffd1bcb91662c138ee6f3a6d2f4b60564f18f85cd596f772663ad061",
+    "eth/structure_state.py": "c5d811ab4a30525de6b6541953f6dd874fd5058bbd7d286526549103cff1d7a7",
+    "eth/setups.py": "0620768476cb0dfe8b848d76adab894820ab48429597f348af62987d9766d17d",
+    "eth/planning.py": "59fe7fb400e27f2c714918939351db506d8b48a92272eb4ed4b555eddb3fd341",
+    "eth/strategy.py": "4c320e88bf583edc69f749a2b930b0958095bc2d1fad4a7728dcc8385b135664",
+    "eth/regime.py": "e4c3408aadaa36e03847f524ab87494b92255d934500882f2d7635c80085728e",
+    "eth/providers.py": "abddf676d0a951c0966c3fe9f2fae046ea73cda9c51a36ffac41f5ca3ae7093a",
+    "eth/execution.py": "d379edd8064aad8a0aaf14bb20331181f9747822e87f46f12ee07938a8c44ca6",
+    "eth/runtime.py": "3f2dad9e8622df5374d6f6a50eaf1e2b1aee5c67c34296965b68b29f35f4d50a",
+    "eth/presentation.py": "13c87d5d7148a9a006bbc8f815149e5ec2d7c47f4753c0145509308140dd6c0b",
+    "eth/notify.py": "a8b8ee67483bd7961b6bb0fa10c35401cf7babf97764864f6c4de80741690d76",
+    "eth/store.py": "130a2172d93a6e08ad51956681523638182bc8ac022f8a8854409e3059c1c877",
+    "app_eth.py": "c1c2c69b98c86dc764d1ebc8e317369e81105b3b057352e98c6a472a5844bef7",
+    "templates/eth.html": "2001f02676378e58703bad88de11851d481aa386310ce2aec2621a6278d1312a",
+    "tests/test_revision2.py": "f27597f228097865d351e5fc554eb1307af940b89b0cb4d2a99c29a83d6bafb3",
+    "tests/test_revision4.py": "5c1a1334db1ff0bdd4fa1cf7113a0b230d2c16ecd6454087880328b3c46dcb10"
+  }
+}
